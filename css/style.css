@@ -311,12 +311,12 @@ a.active {
 
 .about-border {
     position: absolute;
-    border: 10px solid #425BB5;
+    border: 10px solid lightgray;
     width: 400px;
-    height: 400px;
-    top: 40px;
-    left: 50px;
-    z-index: 1
+    height: 472px;
+    top: 9px;
+    left: 70px;
+    z-index: 1;
 }
 
 
@@ -799,4 +799,9 @@ fieldset {
     nav li a {
         font-size: 10px;
     }
+}
+.img-about{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
