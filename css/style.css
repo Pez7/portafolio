@@ -633,7 +633,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
+    background: #fff;
 }
 
 #contact-form input,
@@ -804,4 +804,8 @@ fieldset {
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
+}
+#conocimientos{
+    padding: 100px 0;
+    background: #f3f3f3;
 }
