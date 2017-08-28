@@ -809,3 +809,21 @@ fieldset {
     padding: 100px 0;
     background: #f3f3f3;
 }
+.nombre{
+    font-size:55px;
+    margin-left: 0px;
+}
+.nombre:before {
+    position: absolute;
+    width: 30px;
+    left: -40px;
+    content: "";
+    display: block;
+    height: 2px;
+    background: transparent;
+    top: 9px;
+}
+
+.front{
+    font-size:26px;
+}
