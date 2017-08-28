@@ -828,21 +828,30 @@ fieldset {
     font-size:26px;
 }
 .css{
-    width: 149px;
-    height:200px;
-    -webkit-filter: grayscale(1);
-    filter: grayscale(1);
+    width: 140px;
+    margin-left: 32px;
 }
 .sass{
     width: 300px;
-    height: 200px;
-    -webkit-filter: grayscale(1);
-    filter: grayscale(1);
 }
 
-.herramientas{
+.html{
     width: 200px;
-    height: 200px;
+}
+.js{
+    width:209px;
+}
+.materialize{
+    width: 200px;
+}
+.query{
+    width: 200px;
+}
+footer i{
+    padding-bottom: 15px;
+    color:black;
+}
+.gris{
     -webkit-filter: grayscale(1);
     filter: grayscale(1);
 }
