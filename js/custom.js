@@ -103,6 +103,59 @@ $(document).ready(function () {
 
     });
 
-    //animatedModal
-    $("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
+//funciones proyectos
+    $('#translab').click(function(){
+        document.location.href = "https://github.com/Pez7/trans-lab";
+    });
+    $('#trans-demo').click(function(){
+        document.location.href = "https://pez7.github.io/trans-lab/";
+    });
+    $('#dark').click(function() {
+        document.location.href = "https://github.com/Pez7/dark-sky-lab";
+    });
+    $('#dark-demo').click(function() {
+        document.location.href = "https://pez7.github.io/dark-sky-lab/index.html";
+    });
+    $('#to-do').click(function() {
+        document.location.href = "https://github.com/Pez7/todo-jquery";
+    });
+    $('#list-demo').click(function() {
+        document.location.href = "https://pez7.github.io/todo-jquery/";
+    });
+    $('#lyft').click(function() {
+        document.location.href = "https://github.com/Nat-Fox/lyft-app";
+    });
+    $('#lyft-demo').click(function() {
+        document.location.href = "https://nat-fox.github.io/lyft-app/";
+    });
+    $('#pelis').click(function() {
+        document.location.href = "https://github.com/sagicary/mis-pelis";
+    });
+    $('#pelis-demo').click(function() {
+        document.location.href = "https://sagicary.github.io/mis-pelis/";
+    });
+    $('#dribbble').click(function() {
+        document.location.href = "https://github.com/nanynn/dribbble-lab";
+    });
+    $('#dribbble-demo').click(function() {
+        document.location.href = "https://nanynn.github.io/dribbble-lab/";
+    });
+    $('#sumito').click(function() {
+        document.location.href = "https://github.com/Pez7/landing-sumo";
+    });
+    $('#sumito-demo').click(function() {
+        document.location.href = "https://pez7.github.io/landing-sumo/";
+    });
+    $('#appLove').click(function() {
+        document.location.href = "https://github.com/Pez7/app-love-flex-";
+    });
+    $('#app-demo').click(function() {
+        document.location.href = "https://pez7.github.io/app-love-flex-/";
+    });
+    $('#bunny').click(function() {
+        document.location.href = "https://github.com/Pez7/bunny-love";
+    });
+    $('#bunny-demo').click(function() {
+        document.location.href = "https://pez7.github.io/bunny-love/";
+    });
 });
