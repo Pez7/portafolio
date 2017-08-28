@@ -827,3 +827,22 @@ fieldset {
 .front{
     font-size:26px;
 }
+.css{
+    width: 149px;
+    height:200px;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+.sass{
+    width: 300px;
+    height: 200px;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.herramientas{
+    width: 200px;
+    height: 200px;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
